@@ -50,7 +50,6 @@ pytorch-cifar/
 ### 1. Clone and Setup
 ```bash
 git clone <repository-url>
-cd pytorch-cifar
 pip install torch torchvision matplotlib pandas numpy
 ```
 
